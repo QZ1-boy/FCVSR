@@ -34,11 +34,7 @@ Testing Datasets:
 [REDS4 dataset] [REDS4] (https://seungjunnah.github.io/Datasets/reds.html)
 
 [Vid4 dataset] [Vid4] (https://drive.google.com/drive/folders/1An6hF1oYkeWxfOBxxKm073mvgIFrBNDA)
-```python
-Our work is built on the CD-VSR and uses the same datasets.
 
-Download raw HR videos and compressed LR videos in [CD-VSR] (https://ieeexplore.ieee.org/abstract/document/9509352)
-```
 
 # Train
 ```python
