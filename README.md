@@ -1,3 +1,3 @@
 # FCVSR
 
-The repo of "A frequency-aware Method for Compressed Video Super-Resolution".
+The code of paper "A frequency-aware Method for Compressed Video Super-Resolution".
