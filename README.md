@@ -19,12 +19,21 @@ python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 ```
 
 ## Dataset Download
+Training Datasets:
+
 [CVCP dataset] [CVCP] (https://auguste7.github.io/CVCP-database/)
 
 [REDS dataset] [REDS] (https://seungjunnah.github.io/Datasets/reds.html)
 
 [Vimeo-90K dataset] [Vimeo-90K] (https://github.com/anchen1011/toflow)
 
+Testing Datasets:
+
+[CVCP10 dataset] [CVCP10] (https://auguste7.github.io/CVCP-database/)
+
+[REDS4 dataset] [REDS4] (https://seungjunnah.github.io/Datasets/reds.html)
+
+[Vid4 dataset] [Vid4] (https://drive.google.com/drive/folders/1An6hF1oYkeWxfOBxxKm073mvgIFrBNDA)
 ```python
 Our work is built on the CD-VSR and uses the same datasets.
 
