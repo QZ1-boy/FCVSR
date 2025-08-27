@@ -42,11 +42,16 @@ For CVCP dataset:
 ```python
 python train_LD_37.py
 ```
-For RES4 or Vimeo90K dataset:
+For REDS or Vimeo90K dataset:
 ```python
 python train_LD_37.py
 ```
 # Test
+For CVCP10 dataset:
+```python
+python test_LD_37.py 
+```
+For REDS4 or Vid4 dataset:
 ```python
 python test_LD_37.py 
 ```
