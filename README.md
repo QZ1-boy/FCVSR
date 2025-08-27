@@ -38,6 +38,11 @@ You can also obtain these testing datasets from our Baiduyun [test datas](https:
 
 
 # Train
+For CVCP dataset:
+```python
+python train_LD_37.py
+```
+For RES4 or Vimeo90K dataset:
 ```python
 python train_LD_37.py
 ```
