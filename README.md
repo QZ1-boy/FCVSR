@@ -40,10 +40,12 @@ You can also obtain these testing datasets from our Baiduyun [test datas](https:
 # Train
 For CVCP dataset:
 ```python
+cd CVSR_train
 python train_LD_37.py
 ```
 For REDS or Vimeo90K dataset:
 ```python
+cd mmedit_train
 python train_LD_37.py
 ```
 # Test
