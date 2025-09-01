@@ -51,10 +51,12 @@ python train_LD_37.py
 # Test
 For CVCP10 dataset:
 ```python
+cd CVSR_train
 python test_LD_37.py 
 ```
 For REDS4 or Vid4 dataset:
 ```python
+cd mmedit_train
 python test_LD_37.py 
 ```
 # Citation
