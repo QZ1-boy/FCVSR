@@ -1,6 +1,6 @@
 # FCVSR
 
-A Frequency-aware Method for Compressed Video Super-Resolution (IEEE TMM).
+FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution (IEEE TMM).
 
 # Requirements
 
@@ -51,10 +51,11 @@ python test_LD_37.py
 # Citation
 If this repository is helpful to your research, please cite our paper:
 ```python
-@article{zhu2025fcvsr,
-  title={FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution},
+@article{zhu2026fcvsr,
+  title={Fcvsr: A frequency-aware method for compressed video super-resolution},
   author={Zhu, Qiang and Zhang, Fan and Chen, Feiyu and Zhu, Shuyuan and Bull, David and Zeng, Bing},
-  journal={arXiv preprint arXiv:2502.06431},
-  year={2025}
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
 }
 ```
