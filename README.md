@@ -1,4 +1,3 @@
-# FCVSR
 <div align="center">   
 
 # FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution
