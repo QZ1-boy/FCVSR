@@ -1,7 +1,7 @@
 # FCVSR
-
-FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution (IEEE TMM).
-
+<div align="center">   
+# FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution (IEEE TMM).
+</div>
 # Requirements
 
 CUDA==11.6 Python==3.7 Pytorch==1.13
