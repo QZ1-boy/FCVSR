@@ -23,9 +23,10 @@ python -m pip install tqdm lmdb pyyaml opencv-python scikit-image
 Our work was evlauated in three training datasets, i.e., [CVCP](https://auguste7.github.io/CVCP-database/), [REDS](https://seungjunnah.github.io/Datasets/reds.html), and [Vimeo-90K](https://github.com/anchen1011/toflow), and three testing datasets, i.e., [CVCP10](https://auguste7.github.io/CVCP-database/), [REDS4](https://seungjunnah.github.io/Datasets/reds.html), and [Vid4](https://drive.google.com/drive/folders/1An6hF1oYkeWxfOBxxKm073mvgIFrBNDA).
 The uncompressed datasets (Ground-Truth) can be downloaded from thier official links.
 
-Moreover, we provide two datasets (including training and testing data) from our Baiduyun [REDS](https://pan.baidu.com/s/18VO1G63zn1081mwZbV29Tw) [code:t9k8] and [Vimeo90k](https://pan.baidu.com/s/1n7ThUrJtNcLOGkPFcW4ohQ) [code:mdbe]. CVCP dataset (including training and testing data)  can be downloaded from [CVCP](https://auguste7.github.io/CVCP-database/).
+Moreover, we provide two datasets (including training and testing data) from our Baiduyun [REDS](https://pan.baidu.com/s/18VO1G63zn1081mwZbV29Tw) [code:t9k8] and [Vimeo90k](https://pan.baidu.com/s/1n7ThUrJtNcLOGkPFcW4ohQ) [code:mdbe]. 
+CVCP dataset (including training and testing data) can be downloaded from [CVCP](https://auguste7.github.io/CVCP-database/).
 
-The corresponding checlpoints can be downloaded from [ckpt](https://pan.baidu.com/s/1ISfy-hZeLLw14VsXcPt1-w?pwd=q33e) [code:q33e].
+The corresponding checkpoints can be downloaded from [ckpts](https://pan.baidu.com/s/1ISfy-hZeLLw14VsXcPt1-w?pwd=q33e) [code:q33e].
 
 
 # Train
