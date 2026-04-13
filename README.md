@@ -1,7 +1,7 @@
 # FCVSR
 <div align="center">   
 
-# FCVSR: A Frequency-aware Method for Compressed Video Super-Resolution (IEEE TMM).
+# FCVSR: A Frequency-aware Method for Compressed \\ Video Super-Resolution.
 </div>
 
 # Requirements
